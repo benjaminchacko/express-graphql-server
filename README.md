@@ -3,21 +3,21 @@
 This repository is a starter template for an Express JS GraphQL Server
 
 Dependancies
+* apollo-server-express
+* bluebird
 * express
 * express-graphql
 * graphql
-* http
+* mongoose
 
 DevDependancies
 * nodemon
 
 Repository READMES: 
-* [Models README](https://github.com/benjaminchacko/express-hackathon-starter/blob/master/models/README.md)
-* [Routes README](https://github.com/benjaminchacko/express-hackathon-starter/blob/master/routes/README.md) 
+* TBF 
 
 ## How to Use
 1. Fork this repository
 2. Clone to your local machine
-3. Add MongoDB credentials to .env 
-4. `npm install` in your terminal to install node-modules
-5. `npm start` to open development in your browser
+3. `npm install` in your terminal to install node-modules
+4. `npm start` to open development in your browser

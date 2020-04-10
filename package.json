@@ -1,17 +1,19 @@
 {
-  "name": "express_api_template",
+  "name": "express_graphql_server",
   "version": "1.0.0",
   "author": "",
-  "description": "An Express JS REST API Template with MongoDB as Database",
-  "main": "server.js",
+  "description": "Express Graphql Server",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon app.js"
   },
   "dependencies": {
+    "apollo-server-express": "^2.12.0",
+    "bluebird": "^3.7.2",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^15.0.0",
-    "http": "0.0.0"
+    "mongoose": "^5.9.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
