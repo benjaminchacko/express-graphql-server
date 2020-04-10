@@ -27,7 +27,7 @@ Repository READMES:
 ## How to Use
 1. Fork this repository
 2. Clone to your local machine
-3. Create a config.js like this example: 
+3. Create a config.js in root directory like this example: 
 <img src="./assets/config_example.jpg" />
 
 4. `npm install` in your terminal to install node-modules
