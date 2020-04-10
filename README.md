@@ -22,7 +22,8 @@ DevDependancies
 * nodemon
 
 Repository READMES: 
-* TBF 
+*  [GraphQL README](graphql\README.md)
+*  [Models README](models\README.md)
 
 ## How to Use
 1. Fork this repository
