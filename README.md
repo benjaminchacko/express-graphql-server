@@ -2,24 +2,15 @@
 
 This repository is Express JS GraphQL Server with Users & Posts.
 
-## Schema
-
-### User
-
-### Message
-
-Dependancies
-* apollo-server-express
-* bluebird
-* bcryptjs
-* express
-* express-graphql
-* express-jwt
-* graphql
-* mongoose
-
-DevDependancies
-* nodemon
+| Dependancies | DevDependancies|
+| :-------: |:------:| 
+| apollo-server-express | nodemon |
+| bluebird ||
+| bcryptjs ||
+| express || 
+| express-graphql || 
+| graphql || 
+| mongoose || 
 
 Repository READMES: 
 *  [GraphQL README](https://github.com/benjaminchacko/express-graphql-server/blob/master/graphql/README.md)
