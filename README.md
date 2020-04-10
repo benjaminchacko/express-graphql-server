@@ -22,8 +22,8 @@ DevDependancies
 * nodemon
 
 Repository READMES: 
-*  [GraphQL README](graphql\README.md)
-*  [Models README](models\README.md)
+*  [GraphQL README](https://github.com/benjaminchacko/express-graphql-server/blob/master/graphql/README.md)
+*  [Models README](https://github.com/benjaminchacko/express-graphql-server/blob/master/models/README.md)
 
 ## How to Use
 1. Fork this repository
